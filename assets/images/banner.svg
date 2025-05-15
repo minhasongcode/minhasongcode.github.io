@@ -1,5 +1,7 @@
 <svg width="2560" height="424" viewBox="0 0 2560 424" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_455_48827)">
+<rect width="2560" height="424" fill="white"/>
+<rect width="2560" height="424" fill="#8D8D8D" fill-opacity="0.05"/>
 <mask id="mask0_455_48827" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1118" y="-586" width="595" height="796">
 <circle cx="320" cy="320" r="316" transform="matrix(0.866025 -0.5 2.20305e-08 1 1158 -308)" stroke="black" stroke-width="8"/>
 <circle cx="320" cy="320" r="316" transform="matrix(0.866025 -0.5 2.20305e-08 1 1138 -348)" stroke="black" stroke-width="8"/>
