@@ -2,11 +2,11 @@
 <g clip-path="url(#clip0_455_48827)">
 <rect width="2560" height="424" fill="white"/>
 <rect width="2560" height="424" fill="#779ECB" fill-opacity="0.05"/>
-<g filter="url(#filter0_f_455_48827)">
+<g opacity="0.3" filter="url(#filter0_f_455_48827)">
 <circle cx="422" cy="133" r="352" fill="#E3E9EF"/>
 </g>
-<g filter="url(#filter1_f_455_48827)">
-<circle cx="2024" cy="177" r="383" fill="#F1EBE9"/>
+<g opacity="0.5" filter="url(#filter1_f_455_48827)">
+<circle cx="2086" cy="115" r="445" fill="#F1EBE9"/>
 </g>
 <g filter="url(#filter2_f_455_48827)">
 <circle cx="1222.5" cy="91.5" r="329.5" fill="white"/>
@@ -78,7 +78,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="500" result="effect1_foregroundBlur_455_48827"/>
 </filter>
-<filter id="filter1_f_455_48827" x="641" y="-1206" width="2766" height="2766" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_f_455_48827" x="641" y="-1330" width="2890" height="2890" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="500" result="effect1_foregroundBlur_455_48827"/>
