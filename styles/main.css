@@ -74,7 +74,7 @@ form label {
   font-weight: 500;
 }
 
-input[type="text"],
+/* input[type="text"],
 input[type="email"],
 input[type="password"] {
   width: 100%;
@@ -97,7 +97,7 @@ button {
 button:hover {
   background-color: #023e55;
 }
-
+ */
 footer {
   text-align: center;
   font-size: 14px;
